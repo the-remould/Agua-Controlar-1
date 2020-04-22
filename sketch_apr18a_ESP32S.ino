@@ -14,10 +14,10 @@
 #include <Arduino_JSON.h>
 
 const char* ssid = "HOME";
-const char* password = "southampton";
+const char* password = "*********";
 
 //Your IP address or domain name with URL path
-const char* serverName = "http://remould.club/esp-outputs-action.php?action=outputs_state&board=1";
+const char* serverName = "********?action=outputs_state&board=1";
 
 // Update interval time set to 5 seconds
 const long interval = 5000;
