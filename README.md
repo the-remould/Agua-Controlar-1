@@ -13,6 +13,8 @@ TO DO LIST-
 
 5. Figure out how to change SSID & password via Bluetooth Terminal HC05 app.
 
+6. Figure out ESP32 MailClient library for sending email alerts.
+
 Links to the tutorials I used-
 
 http://internetofthinking.blogspot.com/2016/02/upload-ds18b20-temperature-sensor-data.html
