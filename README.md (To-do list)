@@ -1,0 +1,25 @@
+# Agua-Controlar-1
+ESP32S board is controlling the water pumps, ESP8266 board is sending the sensor data to Thingspeak. 
+
+TO DO LIST- (in approximate order of importance)
+
+1. Fix security on esp-outputs.php page!
+
+2. Add sensor code for Soil Humidity to  Agua Controlar 1 (ESP32S board).
+
+3. Send soil humidity data sent to Thingspeak not Asksensors.
+
+4. Buttons (for relays/pumps) have turned into check boxes!? We want buttons but a little bit smaller than they were. Dashboard must be well visible on my phone in sunlight without glasses!
+
+5. When button is pressed, it resets after say 20 or 30 seconds.
+
+6. Research deep sleep mode, will enable unit to run for several months from 3x AA or AAA batteries.
+
+7. Look into OTA updates (wifi or Bluetooth).
+
+Links to the tutorials I used-
+
+http://internetofthinking.blogspot.com/2016/02/upload-ds18b20-temperature-sensor-data.html
+
+https://randomnerdtutorials.com/control-esp32-esp8266-gpios-from-anywhere/
+
