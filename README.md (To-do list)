@@ -11,11 +11,13 @@ TO DO LIST- (in approximate order of importance)
 
 4. Buttons (for relays/pumps) have turned into check boxes!? We want buttons but a little bit smaller than they were. Dashboard must be well visible on my phone in sunlight without glasses!
 
-5. When button is pressed, it resets after say 20 or 30 seconds.
+5. When button is pressed, it should reset after x seconds.
 
-6. Research deep sleep mode, will enable unit to run for several months from 3x AA or AAA batteries.
+6. Research deep sleep mode, this will enable unit to run for several months from 3x AA or AAA batteries.
 
 7. Look into OTA updates (wifi or Bluetooth).
+
+8. Figure out ESP32 mail client.
 
 Links to the tutorials I used-
 
