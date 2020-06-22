@@ -5,15 +5,11 @@ TO DO LIST-
 
 1. Fix security on esp-outputs.php page.
 
-2. Buttons have turned into check boxes!? I want buttons but a little bit smaller than they were.
+2. Buttons have turned into check boxes!? We want buttons but a little bit smaller than they were.
 
-3. Add sensor code from Soil Humidity to  Agua Controlar 1 (ESP32S board).
+3. Add sensor code for Soil Humidity to  Agua Controlar 1 (ESP32S board).
 
-4. I want soil humidity data sent to Thingspeak instead of Asksensors.
-
-5. Figure out how to change SSID & password via Bluetooth Terminal HC05 app.
-
-6. Figure out ESP32 MailClient library for sending email alerts.
+4. Send soil humidity data sent to Thingspeak instead of Asksensors.
 
 Links to the tutorials I used-
 
