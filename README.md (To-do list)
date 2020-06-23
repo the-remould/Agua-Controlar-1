@@ -19,6 +19,8 @@ TO DO LIST- (in approximate order of importance)
 
 8. Figure out ESP32 mail client.
 
+9. Learn about MQTT/Mosquitto
+
 Links to the tutorials I used-
 
 http://internetofthinking.blogspot.com/2016/02/upload-ds18b20-temperature-sensor-data.html
